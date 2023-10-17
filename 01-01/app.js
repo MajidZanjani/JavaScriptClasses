@@ -14,9 +14,3 @@ const cx5 = new Car(4, 'V6', 'Grey');
 
 console.log(cx5);
 console.log(cx5.carStats());
-
-function sayHi() {
-  return console.log('Hello this function can be called anywhere!');
-}
-
-sayHi();
